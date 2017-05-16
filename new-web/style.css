@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: arial, serif;
+}
+
+html{
+  background: url("img/seeds.png") repeat;
+
+}
+
+img{
+  display: inline-block;
+padding-left: 450px;
+
+}
+
+
+h1{
+  color:white;
+  background-color: brown;
+  text-align: center;
+  margin: 70px;
+  position: relative;
+}
+
+#article{
+  width: 800px;
+  padding-top: 50px;
+  text-align: left;
+  padding: 20;
+  background-color: brown;
+  margin: auto;
+  align-content: center;
+
+}
+
+footer{
+  color: white;
+  background-color:green;
+  text-align: center;
+  padding: 20px;
+  align-items: baseline;
+}
