@@ -27,3 +27,14 @@ var job = prompt("Please enter your job", "Please type Warrior, Mage, or Priest.
 } else {
   alert("Job is not listed, please refresh the page.")
 }
+
+
+/* Tugas 3 JS looping for*/
+
+for (var i = 1; i < 21; i++) {
+console.log(i, " - I love coding")
+}
+
+for (var i = 20; i > 0; i--) {
+  console.log(i, " - I wll become fullstack developer")
+}
